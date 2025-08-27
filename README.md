@@ -1,6 +1,5 @@
-# 💫 About Me:
-Hi, I'm Taha. 
-I am currently a student and aspire to become a full-time software engineer with a focus on fullstack/backend development :)
+# Hi, my name is Taha:
+I am a Software Engineering graduate and an aspiring developer. I am always expanding my knowledge in both back-end and front-end development. My goal is to strengthen my development skills and explore new technologies. I love to learn and build.
 
 
 ## 🌐 Socials:
